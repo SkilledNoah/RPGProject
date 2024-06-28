@@ -1,3 +1,13 @@
+/*
+-----------------------------------------
+
+	* Course: The Complete C++ Developer Course - John P. Baugh
+	* Author: Noah Louvet
+	* Section: 10 - Inheritance and Polymorphism
+
+-----------------------------------------
+*/
+
 #include <iostream>
 #include <string>
 #include <vector>
